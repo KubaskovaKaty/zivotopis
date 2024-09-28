@@ -1,0 +1,37 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    font-style: normal;
+    margin: 0;
+}
+h1 {
+    font-family: "Playfair Display";
+    text-align: center;
+    color: #555555;
+    font-weight: normal;
+    margin: 0 30px 30px 0;
+
+}
+
+h2{
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 0;
+}
+h3 {
+    color: #555555;
+    margin-top: 16px;
+}
+
+.foto-omne {
+    width: 120px;
+    border: 2px solid #584a44;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+section {
+    padding: 30px  8%;
+}
+
+
